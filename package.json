@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-api-dropbox",
+  "version": "0.0.2",
+  "description": "api/dropbox.js: A module bundled by ac-bundle-module.",
+  "main": "api/dropbox.js",
+  "scripts": {
+    "start": "node api/dropbox.js"
+  },
+  "keywords": [
+    "api/dropbox.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-api-dropbox/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
